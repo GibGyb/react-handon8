@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.Image {
+    width: 30px;
+    margin: 0 10px;
+}
+
+.card {
+    height: auto;
+    padding: 10px 50px;
+    box-sizing: border-box;
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
+    max-width: 70%;
+
+}
+
+.blog{
+    display: flex;
+    padding: 0px;
+}
+
+.Textblog {
+    font-size: 20px;
+    color: grey;
+}
+
+.Textall{
+    font-size: 12px;
+    color:firebrick;
+}
+
+.author {
+    display: flex;
+    gap: 20px;
+}
+
+
+.card2 {
+    height: auto;
+    padding: 10px 50px;
+    box-sizing: border-box;
+    background-color: white;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
+    max-width: 70%;
+
+}

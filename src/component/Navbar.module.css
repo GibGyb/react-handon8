@@ -1,0 +1,29 @@
+.Image {
+    width: 100px;
+}
+
+.card {
+        height: auto;
+        padding: 10px 50px;
+        box-sizing: border-box;
+        background-color: white;
+        color: black;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        
+}
+
+.Text{
+    font-weight: 700;
+    font-size: 12px;
+}
+
+a{
+    padding: 0 20px;
+}
+
+.Nightmode {
+    width:20px;
+    padding:0 20px;
+}
